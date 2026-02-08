@@ -1,31 +1,30 @@
-Solid State by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Lantec Romania Landing Page
 
+Professional bilingual (Romanian/English) landing page for Lantec Computer Systems, showcasing partnerships with MOBOTIX, MXessories, Crestron, and Allnet.
 
-After a somewhat extended break from HTML5 UP (to work on a secret-ish new project --
-more on that later!) I'm back with a brand new design: Solid State, a slick new multi-
-pager that combines some of the ideas I've played with over at Pixelarity with an "angular"
-sort of look. Hope you dig it :)
+## Test Page
+https://andrei-cristea-ew.github.io/lantec-landing-page/
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Features
+- Bilingual support with RO/EN language toggle
+- Responsive design for all devices
+- Four partnership spotlight sections
+- Services overview with icon cards
+- Contact information footer
 
-(* = not included)
+## Technologies
+- HTML5, CSS3, JavaScript
+- SASS for styling
+- Font Awesome icons
+- Based on Solid State template by HTML5 UP
 
-AJ
-aj@lkn.io | @ajlkn
+## Building
+Compile SASS to CSS:
+```bash
+sass assets/sass/main.scss assets/css/main.css
+```
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Credits
+- Template: Solid State by HTML5 UP (html5up.net)
+- Icons: Font Awesome (fontawesome.io)
+- jQuery & Scrollex for animations
