@@ -17,8 +17,6 @@
 			border-radius: _size(border-radius);
 			margin: (_size(section-spacing, large) * 0.5) _size(section-spacing, large) (_size(section-spacing, large) * 0.5) 0;
 			width: calc(50% - #{_size(section-spacing, large) * 0.5});
-		display: flex;
-		flex-direction: column;
 
 			&:nth-child(2n) {
 				margin-right: 0;
@@ -60,10 +58,6 @@
 
 		h3.major {
 			text-align: center;
-		}
-
-		a.special {
-			margin-top: auto;
 		}
 		}
 
